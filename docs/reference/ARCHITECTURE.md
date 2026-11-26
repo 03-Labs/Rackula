@@ -192,6 +192,6 @@ No legacy support or migration code. Features are implemented as if they're the 
 
 ## See Also
 
-- `CLAUDE.md` - Claude Code development instructions
+- `AGENTS.md` - Shared project instructions
 - `CONTRIBUTING.md` - Contribution guidelines
 - `docs/reference/SPEC.md` - Technical overview and design principles

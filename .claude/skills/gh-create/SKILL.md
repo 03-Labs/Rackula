@@ -318,9 +318,9 @@ gh issue create \
 
 ---
 
-## CLAUDE.md Overrides
+## AGENTS.md Overrides
 
-If the project has a `## GitHub Workflow` section in CLAUDE.md, read it for:
+If the project has a `## GitHub Workflow` section in AGENTS.md, read it for:
 
 - Custom label patterns
 - Issue template additions

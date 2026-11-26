@@ -648,7 +648,7 @@ Labels: bug, triage, area:ui (inferred)
 | device, library, category, 0.5U, manufacturer       | `area:devices`     |
 | save, load, export, import, PDF, PNG, zip, YAML     | `area:export`      |
 | accessibility, keyboard, screen reader, focus, ARIA | `area:a11y`        |
-| docs, documentation, README, CLAUDE.md              | `area:docs`        |
+| docs, documentation, README, AGENTS.md              | `area:docs`        |
 | schema, validation, Zod, format, migration          | `area:data-schema` |
 | test, vitest, playwright, e2e, coverage             | `area:testing`     |
 

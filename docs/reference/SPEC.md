@@ -49,7 +49,7 @@ Rackula supports two deployment modes:
 
 In static mode, Rackula is a pure client-side SPA with no network dependencies. In persist mode, an optional API server provides layout storage, authentication, and multi-device sync.
 
-See `CLAUDE.md` for deployment environments and CI/CD details.
+See `AGENTS.md` for deployment environments and CI/CD details.
 
 ---
 
@@ -205,5 +205,5 @@ my-rack.Rackula.zip
 | [ARCHITECTURE.md](../ARCHITECTURE.md) | Codebase overview and entry points |
 | [SCHEMA.md](./SCHEMA.md)              | Complete data schema reference     |
 | [BRAND.md](./BRAND.md)                | Design system and brand colours    |
-| [CLAUDE.md](../../CLAUDE.md)          | Development workflow and commands  |
+| [AGENTS.md](../../AGENTS.md)          | Development workflow and commands  |
 | [CHANGELOG.md](../../CHANGELOG.md)    | Version history                    |
