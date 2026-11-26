@@ -11,7 +11,7 @@ description: Use when creating or editing user-facing documentation in docs/guid
 - Editing existing user-facing documentation
 - Updating docs after a feature change
 
-**Not for:** Research spikes, CLAUDE.md, changelogs, developer-facing docs.
+**Not for:** Research spikes, AGENTS.md, changelogs, developer-facing docs.
 
 ## Audience
 

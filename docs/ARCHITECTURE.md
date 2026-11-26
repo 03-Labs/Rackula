@@ -198,6 +198,6 @@ Both return `{ version, commit, buildTime }`. The git tag is the single source o
 
 ## See Also
 
-- `CLAUDE.md` - Claude Code development instructions
+- `AGENTS.md` - Claude Code development instructions
 - `CONTRIBUTING.md` - Contribution guidelines
 - `docs/reference/SPEC.md` - Technical overview and design principles

@@ -7,7 +7,7 @@ Rackula uses Dependabot to open dependency update pull requests. Dependency chan
 ## Configuration
 
 - **Location**: `.github/dependabot.yml`
-- **Merge policy**: the review and merge gate in `CLAUDE.md`
+- **Merge policy**: the review and merge gate in `AGENTS.md`
 
 ## Update Strategy
 

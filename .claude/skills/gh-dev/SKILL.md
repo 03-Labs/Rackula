@@ -230,10 +230,10 @@ Work on the issue. Follow acceptance criteria.
 
 ### 3c. Verification (if configured)
 
-Check CLAUDE.md for `### Verification Commands`. If found, run them:
+Check AGENTS.md for `### Verification Commands`. If found, run them:
 
 ```bash
-(cd "$WORKTREE_DIR" && <commands from CLAUDE.md>)
+(cd "$WORKTREE_DIR" && <commands from AGENTS.md>)
 ```
 
 If not configured, skip or ask user.
@@ -326,7 +326,7 @@ Check for more issues:
 
 ---
 
-## CLAUDE.md Overrides
+## AGENTS.md Overrides
 
 If project has `## GitHub Workflow` section, read for:
 

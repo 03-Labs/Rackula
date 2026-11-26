@@ -6,12 +6,12 @@ Thanks for contributing to Rackula.
 
 Rackula is built largely with [Claude Code](https://claude.com/claude-code), but it is not an AI-exclusive project. Human and AI-assisted contributions are equally welcome.
 
-- Read `CLAUDE.md` for how Claude Code is used with this project.
+- Read `AGENTS.md` for how Claude Code is used with this project.
 - Planning and design docs live in `docs/` (start with `docs/ARCHITECTURE.md`).
 
 ### When to Include AI Attribution
 
-Add a `Co-authored-by:` trailer (format in `CLAUDE.md`) when AI generates substantial code: complete functions, whole features, or the bulk of a commit's changes.
+Add a `Co-authored-by:` trailer (format in `AGENTS.md`) when AI generates substantial code: complete functions, whole features, or the bulk of a commit's changes.
 
 Skip attribution for trivial assists: autocomplete, formatting, variable names, docstrings, or minor syntax fixes.
 
@@ -92,7 +92,7 @@ Key documentation for contributors:
 - **Architecture overview:** `docs/ARCHITECTURE.md` (start here for orientation)
 - **Technical overview:** `docs/reference/SPEC.md` (design principles)
 - **Testing guide:** `docs/guides/TESTING.md` (testing patterns)
-- **AI instructions:** `CLAUDE.md` (Claude Code workflow)
+- **AI instructions:** `AGENTS.md` (Claude Code workflow)
 
 ### Svelte 5 Runes
 
@@ -138,7 +138,7 @@ Do NOT use Svelte 4 stores (`writable`, `readable`, `derived` from `svelte/store
 3. **Commit**
    - Use the `type: description` format (feat, fix, docs, refactor, test, chore)
    - Sign off each commit with `git commit -s` (see Certifying Your Contributions below)
-   - If using AI assistance, include co-author attribution (see `CLAUDE.md` for format)
+   - If using AI assistance, include co-author attribution (see `AGENTS.md` for format)
 
 4. **Push and Create PR**
    - Push your branch

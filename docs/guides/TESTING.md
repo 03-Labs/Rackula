@@ -6,7 +6,7 @@ This document describes the testing patterns, conventions, and best practices fo
 
 ## ⚠️ MANDATORY Testing Rules
 
-**BEFORE writing any test**, read the mandatory testing rules in **[CLAUDE.md - Testing Rules (MANDATORY)](../../CLAUDE.md#testing-rules-mandatory)**.
+**BEFORE writing any test**, read the mandatory testing rules in **[AGENTS.md - Testing Rules (MANDATORY)](../../AGENTS.md#testing-rules-mandatory)**.
 
 ### Quick Summary
 
@@ -76,7 +76,7 @@ We deleted **78 low-value test files** (57% reduction) that tested implementatio
 - Core algorithms (collision detection, schemas)
 - E2E user flows (real user behavior)
 
-**Enforcement:** See [CLAUDE.md - Enforcement](../../CLAUDE.md#enforcement) for ESLint hard-blocks that prevent anti-patterns.
+**Enforcement:** See [AGENTS.md - Enforcement](../../AGENTS.md#enforcement) for ESLint hard-blocks that prevent anti-patterns.
 
 ---
 
